@@ -3,6 +3,7 @@ const DarkMode = (Component) => {
     const style = {
         backgroundColor: '#233142',
         color: 'white',
+        // width:'100%',
         height: '100vh',
     }
 

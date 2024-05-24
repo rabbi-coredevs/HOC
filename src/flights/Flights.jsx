@@ -45,7 +45,7 @@ const Flights = () => {
 
   return (
     <>
-      <div className="w-1/4 border-8 border-gray-200 top-0 bottom-0">
+      <div className="w-1/4 ">
          {error && <p className="text-red-500 text-center">{error}</p>}
         <div className="w-full h-16  bg-[#ECEDF1] flex items-center justify-center">
           <input
